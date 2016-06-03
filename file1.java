@@ -1,3 +1,4 @@
+// function to print Hello world
 class Example{
 public static void main(String [] args){
 System.out.println("Hello world");
